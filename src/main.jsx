@@ -12,5 +12,5 @@ createRoot(document.getElementById('root')).render(
 
 // REDUX: ISTRUZIOINI PER L'USO
 // 1) creare il primo reducer
-// 2) utilizzarlo per configurare lo store in /redeux/store/index.js
-// 3) utilizzarelo store creato ed esportato come prop "store" per Provider
+// 2) utilizzarlo per configurare lo store in /redux/store/index.js
+// 3) utilizzare lo store creato ed esportato come prop "store" per Provider
